@@ -1,6 +1,7 @@
 # My-Most-Used-Apps
 
-A quick personal catalog of my most-used Windows laptop apps.
+A quick personal catalog of my most-used apps across Windows and iPhone.
+Every app listed here is free (or has a free tier).
 
 ## App List
 
@@ -31,6 +32,18 @@ A quick personal catalog of my most-used Windows laptop apps.
     <tr>
       <td><a href="https://blip.net/">Blip (Transfers)</a></td>
       <td>Very fast file transfer app for sending large files directly between devices.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Frenchbear1/Apple-Music-YouTube-Downloader">Apple-YouTube Music Downloader</a></td>
+      <td>My free GitHub project for Apple Music and YouTube music download workflows.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MrElyazid/SpotFetch">SpotFetch</a></td>
+      <td>Free Spotify download tool with playlist support, metadata tagging, and batch downloads.</td>
+    </tr>
+    <tr>
+      <td><a href="https://apps.apple.com/us/app/cosmos-offline-music-player/id6751984723">Cosmos Offline Music Player (iPhone)</a></td>
+      <td>Free iPhone offline music player app for local playback on iOS.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Frenchbear1/Aesthetic-Bible">My Aesthetic Bible</a></td>
