@@ -1,7 +1,6 @@
 # My-Most-Used-Apps
 
-A quick personal catalog of my most-used apps across Windows and iPhone.
-Every app listed here is free (or has a free tier).
+Free daily essentials.
 
 ## App List
 
