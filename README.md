@@ -42,15 +42,15 @@ Free daily essentials.
     </tr>
     <tr>
       <td><a href="https://apps.apple.com/us/app/cosmos-offline-music-player/id6751984723">Cosmos Offline Music Player (iPhone)</a></td>
-      <td>iPhone music</td>
+      <td>iPhone local music player</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Frenchbear1/Aesthetic-Bible">My Aesthetic Bible</a></td>
-      <td>Organization app</td>
+      <td>Good looking laptop Bible</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Frenchbear1/Remote-Monitor-Controller">Remote-Monitor-Controller</a></td>
-      <td>Brightness tray</td>
+      <td>Brightness tray for different displays</td>
     </tr>
     <tr>
       <td><a href="https://www.nchsoftware.com/capture/">Debut Video Capture Software (Free Tier)</a></td>
@@ -58,7 +58,7 @@ Free daily essentials.
     </tr>
     <tr>
       <td><a href="https://support.garmin.com/en-US/?faq=Eg1NnC6Hr4ANNXxSXuQig7">Garmin Aviation Trainers</a></td>
-      <td>Flight trainer</td>
+      <td>Avionics trainer</td>
     </tr>
     <tr>
       <td><a href="https://www.flightgear.org/download/">FlightGear 2024.1</a></td>
@@ -66,7 +66,7 @@ Free daily essentials.
     </tr>
     <tr>
       <td><a href="https://github.com/Frenchbear1/Updated-PDF-Merger">My Updated File Merger App</a></td>
-      <td>File merger</td>
+      <td>File merger (PDF/Slides/Images)</td>
     </tr>
     <tr>
       <td><a href="https://learn.microsoft.com/powershell/scripting/install/installing-powershell-on-windows">PowerShell 7</a></td>
